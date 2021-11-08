@@ -1,13 +1,5 @@
-# PyPoi
-
-[![PyPI](https://img.shields.io/pypi/v/pypoi.svg)](https://pypi.org/project/pypoi/)
-   
-An image processing GUI application written in Python under Apache
-License 2.0. PyPoi stands for "<b>Py</b>thon Program for <b>Poi</b>sson Image Editing".
-
-It enables you to try the Poisson Image Editing method interactively.
-Some examples are already ready for you, but you can also load arbitrary images and try it.
-
+# A tool to manipulate images
+ 
 ![demo gif](https://github.com/fbessho/PyPoi/raw/master/images/demo.gif)
 
 ## Installation
