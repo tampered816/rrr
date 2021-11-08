@@ -15,5 +15,12 @@ If you press the blend&asve button, the result wil be save in ./images/blended a
 ```
 ### Code
 ```
-You should change the datasets path in gui.py
+You should change the datasets path in gui.py and you can only modify 50 images at a time
+
+
+In gui.py, the load_example method will load the picture.
+The image on the left is randomly selected within a given range and the index of it is named ii.
+The index of right image is named example_id.
+
+After editing 50 images, you should let the example_id += 50
 ```
